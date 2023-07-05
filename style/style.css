@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  background-color: lightgreen;
+  width: 1330px;
+  min-height: 150px;
+  padding: 20px;
+  margin: 10px;
+}
