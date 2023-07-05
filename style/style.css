@@ -10,3 +10,13 @@
   padding: 20px;
   margin: 10px;
 }
+.test {
+  background-color: blueviolet;
+  width: 1330px;
+  min-height: 150px;
+  padding: 20px;
+  margin: 10px;
+}
+.test h1,p{
+  color: white;
+}
